@@ -67,6 +67,12 @@ a:hover {
 	background-repeat:no-repeat;
     background-position:50% 50%;
     background-position:50% 50%\9 !important;
+ 
+}
+
+.index-2-bg {
+   background-size: cover !important;
+   background-position: center !important;	
 }
 .overlay {
     background-color: rgba(0, 0, 0, 0.5);
