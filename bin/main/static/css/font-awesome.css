@@ -356,6 +356,9 @@
 .fa-map-marker:before {
   content: "\f041";
 }
+.fa-business:before {
+  content: "\f508";
+}
 .fa-adjust:before {
   content: "\f042";
 }
